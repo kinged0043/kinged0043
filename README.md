@@ -1,4 +1,4 @@
-### Hi there 👋
+machine learning && embedded systems noob
 
-- 🌱 I’m currently learning Machine Learning and stuff...
-- 📫 How to reach me: @kinged0043 on twitter
+
+..., nothing else to see here...
