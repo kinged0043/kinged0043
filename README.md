@@ -1,9 +1,35 @@
-name: kinged 
+<!-- Dark theme code block look, enhanced style -->
 
-uses: python, c, rust, maybe cpp
+<div align="center">
 
-for: machine learning, embedded, tinyML
+<img src="https://capsule-render.vercel.app/api?type=rect&color=23272e&height=100&section=header&text=kingED0043&fontColor=fff&fontSize=45&animation=none" alt="header" />
 
-wants: rn an internship in machine learning or embedded systems[hard and sotfware]
+</div>
 
-skills: no idea, but I good at helping out
+<div align="center">
+
+<a href="mailto:ezeabasilied15@gmail.com" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/email-23272e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=23272e" />
+</a>
+<a href="https://github.com/kinged0043">
+  <img src="https://img.shields.io/badge/github-23272e?style=for-the-badge&logo=github&logoColor=white&labelColor=23272e" />
+</a>
+
+</div>
+
+<br/>
+
+```txt
+whoami
+──────
+kinged0043
+
+languages:
+    python · c & c++ · rust
+
+interests:
+    machine learning · embedded · tinyML
+
+skills:
+    generally helpful
+```
