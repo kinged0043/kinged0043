@@ -19,4 +19,4 @@
 
 <br/>
 
-Embedded systems | Machine learning | python | rust | embedded c | gaming | comics and mangas | can be very helpful | noob
+Embedded systems | Machine learning | python | rust | embedded c | gaming | comics and mangas | can be very helpful
