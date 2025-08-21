@@ -19,17 +19,4 @@
 
 <br/>
 
-```txt
-whoami
-──────
-kinged0043
-
-languages:
-    python · c & c++ · rust
-
-interests:
-    machine learning · embedded · tinyML
-
-skills:
-    generally helpful
-```
+Embedded systems | Machine learning | python | rust | embedded c | gaming | comics and mangas | can be very helpful | noob
